@@ -1,0 +1,25 @@
+<html>
+    <head>
+          <title>meu curriculo</title>
+    <head>
+
+    <body>
+        <h1>Eduardo Cheslacki Durante</h1>
+
+        <hr>
+
+        <h2>formação</h2>
+
+    <ul>
+        <h4><li>vendedor de papel</li></h4>
+        <h4><li>programador de jogo</li></h4>
+    </ul>
+
+        <h2>motivos do porque me contratar</h2>
+        
+    <ol>
+        <h4><li>sou legal</li></h4>
+        <h4><li>preciso de emprego</li></h4>
+        <h4><li>você precisa de alguem pra trabalhar</li></h4>
+
+    <a href="https://youtu.be/bpYQRPZyHwM?si=HDsjWya1-ulbe7w9" torget="blank_"> conteudo de qualidade </a>
